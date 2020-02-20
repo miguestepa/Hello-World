@@ -1,2 +1,3 @@
 # Hello-World
-Ideas, projects and experimentation
+
+Hi there people! This is me, in firsts steps with Git Hub. 
