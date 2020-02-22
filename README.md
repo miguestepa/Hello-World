@@ -1,3 +1,3 @@
 # Hello-World
 
-Hi there people! This is me, in firsts steps with Git Hub. 
+Hi there people! This is me doing my firsts steps with Git Hub. 
